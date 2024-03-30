@@ -1,6 +1,8 @@
 # flutka
 
-A new Flutter project.
+Flutter + Kafka 
+
+produce and consume data
 
 ## Getting Started
 
